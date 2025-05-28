@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126885412714",
+    "project_id": "snenh-ade4e",
+    "storage_bucket": "snenh-ade4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126885412714:android:dbc53878a17fdc5504af13",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126885412714-mhj9gg1u95bg79ettm7sgrgukj4f3i1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop",
+            "certificate_hash": "f4a75dce0aaefcd9420f66d92ed37c48b2168208"
+          }
+        },
+        {
+          "client_id": "126885412714-7udcd4lbtjus8tc9piq6bojpku422ue7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_NdDlF_OAo5LYYclzki7bk0UfQujh7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126885412714-7udcd4lbtjus8tc9piq6bojpku422ue7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
